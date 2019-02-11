@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import{ Component } from 'react-redux';
+
 
 import CounterControl from '../../components/CounterControl/CounterControl';
 import CounterOutput from '../../components/CounterOutput/CounterOutput';
